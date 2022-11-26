@@ -61,6 +61,18 @@ Featured Projects: [metaNesia](https://metanesia.id/)
 <br/>
 <br/>
 
+### 📈 My Github Statistics
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DanyZaky&show_icons=true&theme=radical&border_radius=15)
+
+Streak Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=DanyZaky&theme=radical&border_radius=15)](https://git.io/streak-stats)
+
+Contributor Stats
+
+![GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=DanyZaky&theme=radical&border_radius=15)
+
 ### ♨️ My Social Media
 <p><a href="https://github.com/danyzaky" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /> <a href="https://www.linkedin.com/in/danyzaky" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/dnyzkyd/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
