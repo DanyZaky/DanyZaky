@@ -64,13 +64,7 @@ Featured Projects: [metaNesia](https://metanesia.id/)
 ### 📈 My Github Statistics
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DanyZaky&show_icons=true&theme=radical&border_radius=15)
-
-Streak Stats
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=DanyZaky&theme=radical&border_radius=15)](https://git.io/streak-stats)
-
-Contributor Stats
-
 ![GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=DanyZaky&theme=radical&border_radius=15)
 
 ### ♨️ My Social Media
