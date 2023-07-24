@@ -54,7 +54,7 @@ Featured Projects: [Harfish](https://danyzaky.itch.io/harfish-3d), [Harfish-Repo
 
 [<img align="left" height="94px" width="94px" alt="Metanesia" src="https://media-exp1.licdn.com/dms/image/C560BAQECLrBFUGKE7A/company-logo_200_200/0/1660203984062?e=1677715200&v=beta&t=C0LNqFWG8LcJ39BgBDUvH_a2DKr-o-oSo-PzDQNdCBg"/>](https://metanesia.id/)
 
-**Metaverse Engineer** • Aug 2022 - now \
+**Metaverse Engineer** • Aug 2022 - Dec 2022 \
 [**PT Telkom Indonesia Tbk**](https://www.telkom.co.id/sites) • Contract \
 Languages & Technologies: `C#`, `Unity`, `Plastic SCM`, `Google Firebase`, `Notion` \
 Featured Projects: [metaNesia](https://metanesia.id/)
