@@ -44,7 +44,7 @@ Languages & Technologies: `C#`, `Unity`, `Notion` \
 Featured Projects: [SneakyPiggy-Repository](https://github.com/RahmatAT11/sneaky-piggy)
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="ITDRI" src="https://media-exp1.licdn.com/dms/image/C560BAQEEhfGgCpDHWg/company-logo_200_200/0/1615472237766?e=1677715200&v=beta&t=qJXzi8CTSXZYlGdlWZW0BOCiGBL6cxAVr6PHomdt6Uc"/>](https://itdri.id/)
+[<img align="left" height="94px" width="94px" alt="ITDRI" src="https://www.telkom.co.id/images/logo_horizontal.svg"/>](https://itdri.id/)
 
 **Game Developer** • Mar 2022 - Aug 2022\
 [**PT Telkom Indonesia Tbk**](https://www.telkom.co.id/sites) • Internship \
@@ -52,7 +52,7 @@ Languages & Technologies: `C#`, `Unity`, `Blender` \
 Featured Projects: [Harfish](https://danyzaky.itch.io/harfish-3d), [Harfish-Repository](https://github.com/DanyZaky/Harfish-3D)
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Metanesia" src="https://media-exp1.licdn.com/dms/image/C560BAQECLrBFUGKE7A/company-logo_200_200/0/1660203984062?e=1677715200&v=beta&t=C0LNqFWG8LcJ39BgBDUvH_a2DKr-o-oSo-PzDQNdCBg"/>](https://metanesia.id/)
+[<img align="left" height="94px" width="94px" alt="Metanesia" src="https://www.telkom.co.id/images/logo_horizontal.svg"/>](https://metanesia.id/)
 
 **Metaverse Engineer** • Aug 2022 - Dec 2022 \
 [**PT Telkom Indonesia Tbk**](https://www.telkom.co.id/sites) • Contract \
