@@ -36,7 +36,7 @@ Software and Tools
 ### ⚙️ My Work Experience
 In the overview below you will find my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="Agate" src="https://media-exp1.licdn.com/dms/image/C560BAQE14FQLbfbNWQ/company-logo_200_200/0/1649903684927?e=1677715200&v=beta&t=GVgAnNVDw5tfgxKLZapxcGJD2S5ntwlaO1BPBd0uhsU"/>](https://agate.id/)
+[<img align="left" height="94px" width="94px" alt="Agate" src="https://scontent-sin6-2.xx.fbcdn.net/v/t39.30808-6/336808667_163369103300390_6216314844674197916_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeG-OlmxGPZECWbi9u6ySrR0anJZUUwg8qdqcllRTCDyp4uCRLG0VjEUIOoAy89RDxU7WnAdMcWEU0Bn9zOfgsuC&_nc_ohc=gyH4SAXa5-YAX8II-qE&_nc_ht=scontent-sin6-2.xx&oh=00_AfD6wR_vcJaQqxRP-6_P9TmZC3nD6F3CN8g5OACE0IFVqA&oe=650A8021"/>](https://agate.id/)
 
 **Game Programmer** • Aug 2021 - Dec 2021\
 [**PT Agate International**](https://www.agate.id/) • Independent Study \
@@ -44,7 +44,7 @@ Languages & Technologies: `C#`, `Unity`, `Notion` \
 Featured Projects: [SneakyPiggy-Repository](https://github.com/RahmatAT11/sneaky-piggy)
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="ITDRI" src="https://www.telkom.co.id/data/image_upload/page/1594108255409_compress_logo%20telkom%20indonesia.png"/>](https://itdri.id/)
+[<img align="left" height="94px" width="94px" alt="ITDRI" src="https://scontent.fsub8-2.fna.fbcdn.net/v/t39.30808-6/313364562_6024361880909213_8731714393511027588_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeGGlSRwhC4L5FkPvhuXvWVDHf1X0xPBrHEd_VfTE8GscXZjxLHqNTp9pUwtQzZGzGLLJY9eGXrBo_nM2w5Ej_dD&_nc_ohc=Y_La_TFRdpgAX-lT7-r&_nc_ht=scontent.fsub8-2.fna&oh=00_AfAcai9V771kA3RaTThfbvqukRMT_Lfa4OnaN57PHCR5qQ&oe=6509F198"/>](https://itdri.id/)
 
 **Game Developer** • Mar 2022 - Aug 2022\
 [**PT Telkom Indonesia Tbk**](https://www.telkom.co.id/sites) • Internship \
@@ -52,7 +52,7 @@ Languages & Technologies: `C#`, `Unity`, `Blender` \
 Featured Projects: [Harfish](https://danyzaky.itch.io/harfish-3d), [Harfish-Repository](https://github.com/DanyZaky/Harfish-3D)
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Metanesia" src="https://www.telkom.co.id/data/image_upload/page/1594108255409_compress_logo%20telkom%20indonesia.png"/>](https://metanesia.id/)
+[<img align="left" height="94px" width="94px" alt="Metanesia" src="https://scontent.fsub8-2.fna.fbcdn.net/v/t39.30808-6/313364562_6024361880909213_8731714393511027588_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeGGlSRwhC4L5FkPvhuXvWVDHf1X0xPBrHEd_VfTE8GscXZjxLHqNTp9pUwtQzZGzGLLJY9eGXrBo_nM2w5Ej_dD&_nc_ohc=Y_La_TFRdpgAX-lT7-r&_nc_ht=scontent.fsub8-2.fna&oh=00_AfAcai9V771kA3RaTThfbvqukRMT_Lfa4OnaN57PHCR5qQ&oe=6509F198"/>](https://metanesia.id/)
 
 **Metaverse Engineer** • Aug 2022 - Dec 2022 \
 [**PT Telkom Indonesia Tbk**](https://www.telkom.co.id/sites) • Contract \
