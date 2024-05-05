@@ -1,37 +1,14 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Step into my world!</h1>
 
-<p>Welcome to my page! </br> I'm Dany Zaky, Game Developer from <img src="https://cdn-icons-png.flaticon.com/512/5372/5372807.png" width="13"/> <b>Probolinggo, Indonesia</b>
+<p>I'm Dany Zaky, a Jr. Game Programmer based in <img src="https://cdn-icons-png.flaticon.com/512/5372/5372807.png" width="13"/> <b>Probolinggo, Indonesia.</b>
 <br/>
 <br/>
+Proficient in variety programming languages, including <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>, <a href="#"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>, <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>, and <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-00bbcc.svg?logo=sql&logoColor=white"></a>, I bring versatility and expertise to every project I undertake.
+My toolkit includes <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a> for design, <a href="#"><img alt="Figma" src="https://img.shields.io/badge/-Figma-777BB4.svg?logo=figma&logoColor=white"></a> for prototyping, <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a> for version control, and <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white"></a> for game engine development, ensuring a seamless and efficient workflow in crafting captivating gaming experiences.
+Join me on my journey as I continue to push the boundaries of interactive entertainment!
 
-### 🛠️ My Favorite Tools
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+<h1> </h1>
 
-Programming Languages
-
-  <p>
-      <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-      <a href="#"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
-      <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-      <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-      <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-      <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-  </p>
-
-Software and Tools
-
-  <p>
-      <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
-      <a href="#"><img alt="Figma" src="https://img.shields.io/badge/-Figma-777BB4.svg?logo=figma&logoColor=white"></a>
-      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-      <a href="#"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-%23181717.svg?logo=gitlab&logoColor=white"></a>
-      <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-      <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?logo=notion&logoColor=white"></a>
-      <a href="#"><img alt="Trello" src="https://img.shields.io/badge/-Trello-%23026AA7?logo=trello&logoColor=white"></a>
-      <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white"></a>
-      <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  </p>
-<br/>
 
 ### 📈 My Github Statistics
 
