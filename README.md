@@ -1,11 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Step into my world!</h1>
 
-<p>I'm Dany Zaky, a Jr. Game Programmer based in <img src="https://cdn-icons-png.flaticon.com/512/5372/5372807.png" width="13"/> <b>Probolinggo, Indonesia.</b>
+<p>I'm Dany Zaky, a Game Programmer from <img src="https://cdn-icons-png.flaticon.com/512/5372/5372807.png" width="13"/> <b>Indonesia.</b>
 <br/>
 <br/>
-Proficient in variety programming languages, including <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>, <a href="#"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>, <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>, and <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-00bbcc.svg?logo=sql&logoColor=white"></a>, I bring versatility and expertise to every project I undertake.
-My toolkit includes <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a> for design, <a href="#"><img alt="Figma" src="https://img.shields.io/badge/-Figma-777BB4.svg?logo=figma&logoColor=white"></a> for prototyping, <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a> for version control, and <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white"></a> for game engine development, ensuring a seamless and efficient workflow in crafting captivating gaming experiences.
-Join me on my journey as I continue to push the boundaries of interactive entertainment!
+I've 3+ years of experience in game development, specializing in Game Programming. I’m skilled at quickly creating games across multiple genres, from action and puzzle to simulation and adventure. With a proven track record of winning game competitions and delivering polished game applications, I’m passionate about crafting engaging and smooth gameplay experiences.
 
 <h1> </h1>
 
