@@ -5,7 +5,7 @@
 
 ### 👨🏻‍💻 About Me
 
-I’m a Unity Game Developer with 2+ years of experience and 10+ projects across desktop, mobile, and WebGL. I’ve built large-scale multiplayer environments (100km maps, 20+ players, <100ms latency), optimized AI traffic systems (~58% FPS improvement), and created rhythm-based combat prototypes for game jams. My focus: turning raw ideas into smooth, scalable, and playable Unity experiences. Check my portfolio here: **https://danyzaky.netlify.app**
+I’m a Unity Game Developer with 2+ years of experience and 10+ projects across desktop, mobile, and WebGL. I’ve built large-scale multiplayer environments (100km maps, 20+ players, <100ms latency), optimized AI traffic systems (~58% FPS improvement), and created rhythm-based combat prototypes for game jams. My focus: turning raw ideas into smooth, scalable, and playable Unity experiences. Check my portfolio here: **https://danyzaky.dev**
 
 ### 🛠 Tech Stack
 
