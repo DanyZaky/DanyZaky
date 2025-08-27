@@ -21,7 +21,16 @@ I’m a Unity Game Developer with 2+ years of experience and 10+ projects across
 
 <table align="center">
   <tr>
-    <td><img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=danyzaky&theme=tokyonight" alt="GitHub Streak"/></td>
-    <td><img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danyzaky&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/></td>
+    <td>
+      <img height="170"
+           src="https://streak-stats.demolab.com/?user=danyzaky&theme=tokyonight"
+           alt="GitHub Streak"/>
+    </td>
+    <td>
+      <img height="170"
+           src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyzaky&layout=compact&langs_count=8&theme=tokyonight"
+           alt="Top Languages"/>
+    </td>
   </tr>
 </table>
+
